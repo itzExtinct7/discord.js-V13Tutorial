@@ -1,7 +1,7 @@
 # discord.js-V13Tutorial
 <div align="center">
   <p>
-    <a href="https://youtube.com/channel/UCdJDiMquCCq3wbZNt7Gtx3g"><img src="https://media.discordapp.net/attachments/926023641236377621/926023683120726016/20211230_133627.png" width="546" alt="MR EXTINCT CODES" /></a>
+    <a href="https://youtube.com/channel/UCdJDiMquCCq3wbZNt7Gtx3g">
   </p>
   <p>
     <a href="https://discord.gg/MRbJCmv4YJ"><img src="https://img.shields.io/discord/925633293754449921?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
