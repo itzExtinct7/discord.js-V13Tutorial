@@ -23,11 +23,11 @@ If you Want to Join Us Link is given below.
 How to make a Discord Bot using [discord.js v13](https://discord.js.org/#/) on [Replit](https://replit.com/~).
 <div align="center">
   <p>
-    <a href="https://youtube.com/playlist?list=PLDn8iE9osELojF2BTBe3dwOF_9FZQFliD"><img src="https://media.discordapp.net/attachments/966943970145996800/966977104375873596/1650615699757.jpg" alt="discord.js V13 Playlist" /></a>
+    <a href="https://youtube.com/playlist?list=PLD_baTf8RUqsbSlEZtp26lvtlAQ53mVEk"><img src="https://media.discordapp.net/attachments/966943970145996800/966977104375873596/1650615699757.jpg" alt="discord.js V13 Playlist" /></a>
   </p>
 </div>
 
-Want to make Discord Bot using [discord.js v13](https://discord.js.org/#/) online on [Replit](https://replit.com/~)? This [playlist](https://youtube.com/playlist?list=PLDn8iE9osELojF2BTBe3dwOF_9FZQFliD) will teach you everything about it.
+Want to make Discord Bot using [discord.js v13](https://discord.js.org/#/) online on [Replit](https://replit.com/~)? This [playlist](https://youtube.com/playlist?list=PLD_baTf8RUqsbSlEZtp26lvtlAQ53mVEk) will teach you everything about it.
 
 ## SUPPORT
 
