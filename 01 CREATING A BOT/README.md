@@ -21,10 +21,10 @@ Now we have to run our main file so we will add this code in script section of `
 
 ## VIDEO
 
-If you need [video tutorial](https://youtu.be/hN0ZIIIvyGI) then this is the link to the [video](https://youtu.be/hN0ZIIIvyGI)!
+If you need [video tutorial](https://youtu.be/PL4DBcyW96k) then this is the link to the [video](https://youtu.be/PL4DBcyW96k)!
 <div align="center">
   <p>
-    <a href="https://youtu.be/hN0ZIIIvyGI"><img src="https://media.discordapp.net/attachments/966943970145996800/966975451341918298/1650615303344.jpg" alt="Episode 1" /></a>
+    <a href="https://youtu.be/PL4DBcyW96k"><img src="https://media.discordapp.net/attachments/966943970145996800/966975451341918298/1650615303344.jpg" alt="Episode 1" /></a>
   </p>
 </div>
 
